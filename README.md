@@ -1,7 +1,7 @@
 # VisionTrack Pro
 - **VisionTrack Pro**  is an advanced object detection and tracking system designed to process video streams for real-time surveillance. It uses the **YOLOv8** model to detect and track objects **(Person, Car, Bus, Truck)** within user-defined **Regions of Interest (ROIs)**. The system provides a web-based dashboard to upload videos, define ROIs, start/stop detection, and visualize analytics, including object counts and class-specific data per zone, with the ability to export results as PDF reports.
 
--   ![img](violations/violation_456_pizza_456.jpg)
+-   ![img](img.png)
 
 -   ## Project Structure
 ```
